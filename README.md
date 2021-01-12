@@ -4,7 +4,7 @@ The docker image build files, sample datasets, and use case exmaples, for Oracle
 
 **The scripts here are my own. Not Oracle's official material.**
 
-Architecture:
+Architecture:fjkahfiuaiufbouaoufhaoufoubawoufbouawbfouaoiuadaq
 
 ![](https://user-images.githubusercontent.com/4862919/80330080-632e9a00-886e-11ea-822e-0a96e40dbbf9.jpg)
 
